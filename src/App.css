@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.abc {
+  background-color: #707070;
+  margin-top: -21px;
+  min-height: 1080px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
